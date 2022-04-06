@@ -1,3 +1,11 @@
-# Zomato-API
-I have complete my analysis on Indian Restaurants data collected using Zomato API.
-I have used Python as programming language, and its Numpy, Pandas and Matplotlib library for this analysis.
+
+# Zomato API Analysis
+
+
+- *Perform analysis on data collected through Zomato API by applying concepts of  **Data Science**.*
+
+## Technologies Used:- 
+- ***Python***
+- ***Numpy***
+- ***Matplotlib***
+- ***Pandas***
